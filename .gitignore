@@ -1,0 +1,16 @@
+# Runtime artifacts (never commit)
+*.log
+*.pid
+*.out
+
+# Local secrets / environment
+.env
+
+# Node
+node_modules/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
