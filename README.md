@@ -58,7 +58,7 @@ DSH 只需要指向 `7900`，代理开不开都不用改配置。
 ## 安装
 
 ```powershell
-git clone https://github.com/pluto20005/DSH-smart-proxy.git
+git clone https://github.com/pluto20005/dsh-smart-proxy.git
 cd dsh-smart-proxy
 powershell -NoProfile -ExecutionPolicy Bypass -File scripts\install.ps1
 ```

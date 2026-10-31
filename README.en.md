@@ -49,7 +49,7 @@ The decision is based on real reachability, not on the system-proxy/TUN switch. 
 ## Install
 
 ```powershell
-git clone https://github.com/pluto20005/DSH-smart-proxy.git
+git clone https://github.com/pluto20005/dsh-smart-proxy.git
 cd dsh-smart-proxy
 powershell -NoProfile -ExecutionPolicy Bypass -File scripts\install.ps1
 ```
